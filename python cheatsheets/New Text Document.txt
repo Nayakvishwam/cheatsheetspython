@@ -1,0 +1,12 @@
+Sessions are used to abstract the receiving and sending of cookies, data is saved on server side (like in database), and the client side cookie just has a session ID for identification.
+A Class is like an object constructor, or a "blueprint" for creating objects.
+The filter() method filters the given sequence with the help of a function that tests each element in the sequence to be true or not.
+A generator-function is defined like a normal function, but whenever it needs to generate a value, it does so with the yield keyword rather than return. 
+If the body of a def contains yield, the function automatically becomes a generator function.
+An iterator is an object that can be iterated upon, meaning that you can traverse through all the values.
+Decorators are used to modifying the behavior of function or class. They are usually called before
+the definition of a function you want to decorate.
+A database is an organized collection of data. 
+All modern database management systems like SQL, MS SQL Server, IBM DB2, ORACLE, My-SQL, and Microsoft Access are based on RDBMS.
+It is called Relational Database Management System (RDBMS) because it is based on the relational model introduced by E.F. Codd.
+
